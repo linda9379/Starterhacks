@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "spartan-card-265521",
+  "private_key_id": "a0516f967eb185a208353d8ee343328a446ce881",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC5ehcqsbuZ9RyM\nAp+MtI617EYSObjr5Kg1P3SzMlBmIJaev9CUIo5WUCpqkwgEIwsToQA4ZCgkgspb\naYi9V0T++0d7oUlw7sY9NgjTLhBC9ERBBSsFGmegH/+Ib7gXdaIP/7o1BalyFnUz\n3MHeFetnE/kWUmuqYJNGvZHTW0IytmTbRib/KhyirOQyBWLSAELCB65ZHmJ0nd5r\nGfS+JXrgZmZHCrJvNHA4MxEh4WvCGcExmc3Q4b778eivt7OwsOuzI8GkAJcKdoWy\nAVShj1+uUFX+ah8otrlZIg0NOMwL9I+iyjOwaI4Qhzb+KvbIy34Vuxarabw1JLAs\nqUFNPxcXAgMBAAECggEAMtPN2HHXRrQAbC/l2DG8sAb9Fs6BqgdBv0HR8a92j94b\nWIqZFpc3qViTnxwGxNdzmB/1Rv7Pb132JUHQ6o4pRrTGnI8Q6KVOZwTRO0nyw95b\ne/P2G5JmVl+eb52p9afTTw4V0aTpD+4ulRVIfVtFZLx49JCGl6yaf3bAqQpnpCyX\nHYEVdutbIfPzp9+rhKqWN6s7Ue3HUnjUn9GgmPf5sLfM7gFQ+ogcyiCHoebD/N9C\nlC/qk5Fv9VbiezZav2N/JuyAs9NAv38jASzLP/ZkPRMmvDOWbzs4tYax9cxLdWvl\n0mwmrjkAyvVJIW7M1+4+Co6j9FsZ5m7IByRfMsXY+QKBgQDbUeglBQoYvr/txms5\nnqYIEjxjUpTM9SOtCA9BAb9MVP1GlXV0m2FMiqGsrXbaEYfLQzOwcKPe7Eo5X8nO\neTDYUm1SOtJ8E7IOKxspVhlqieh4yLRkyexf/wKWY7a9QCDKS/QO7stIuMC75p91\nJ6lkM/009mA8fKGaHww7WZwlOQKBgQDYfzVMQ2UKdtuSH1nwk+cFQ9x/h2i7O42t\nWra1uRkmO0e+yePh98IvugHkBkgs0TdRfMGwDYftCSZxlSaFaQQnyLA5xGwnOegl\nN9yl+H+u6z2NjUFRgQbql7eSQF1e5voBKPAkVm0ysuUP6StqCtsoarrjWoWDxo6c\nfl+W6nLuzwKBgAq6mQamlnXbbvwsxrYM4sZmTfn14j2ciGBAkq51bWxIhBNd4F8R\n8tKRvZL68WN9lA0HfpHVEM8o9ACWhQLKvu72KU7qfb2AISe8SBnfkmK52FuARgLg\nNeYETZYZzqi3aGM9D/VjDSLDlvoaMBbFF+5E9NAQdWjAGA+4ERseKRtRAoGABM9O\nr9MPe5wIZMatiNrAVy2ayHqJqR85lpBdXswt8tt+TI7PsUV/2u+W+ynokJZVVEoh\nQ3gJfQqm//8ATBZ5MSkUQTRL8tMmhS0oicdrjsdLJsnsmZL0RGH6ghVL/b/D7iKq\nsyP4aRfwXtofTMvQ8qTsYgCw1qyinndwSDoNM6ECgYEAjsEF8T8koIYBpm9MGc8k\npOdiCoWL+QJSoSW/zR0zardWCVpNQGW+cG0bpEI6whdBHyd1Z0uC4y11vsXvTrbT\nVeyWbuN6ITMZ1jefmcKQ8wBkJ3CdMlv5lJvgirx6Z2209iTNK5lyxyITJOwzxF2y\nDZwvKqZG/YDIDNvv1jBPxn4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "shacks2020@spartan-card-265521.iam.gserviceaccount.com",
+  "client_id": "108446996611256874499",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/shacks2020%40spartan-card-265521.iam.gserviceaccount.com"
+}
