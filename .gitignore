@@ -1,0 +1,8 @@
+Lib/*
+gcp/*
+.vs
+__pycache__
+starterhacks/Lib/*
+starterhacks/tcl/*
+starterhacks/Include/*
+starterhacks/Scripts/*
